@@ -1,0 +1,15 @@
+{
+  title:"Sinuca do Conhecimento",
+  description:"Sinuca do Conhecimento Gamebook",
+  coverImage:"cover.jpg",
+  creator:"Adriel, Lucas e Victor Sarinho",
+
+  titleSection:"Sinuca do Conhecimento",
+  navSection:"Introdução",
+
+  content:"code.lenda.org.genebook",
+  language:"pt-BR",
+  created:"2023-03-19",
+  modified:"2023-03-19T08:24:00Z",
+  attributionURL:"http://www.omitted.org.br/genebook/"
+}
