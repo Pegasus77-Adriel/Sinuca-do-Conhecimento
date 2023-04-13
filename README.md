@@ -1,1 +1,0 @@
-# Sinuca-do-Conhecimento
